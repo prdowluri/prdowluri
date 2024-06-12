@@ -5,7 +5,7 @@ Hello everyone! I'm Prudhvi Raj Dowluri, a Computer Science graduate with a keen
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/prudhvi-raj-dowluri-412616221/)
-[![Hugging Face](https://img.shields.io/badge/-HuggingFace-9cf)](https://huggingface.co/prudhvirajdowluri-yellow)
+[![Hugging Face](https://img.shields.io/badge/-HuggingFace-yellow)](https://huggingface.co/prudhvirajdowluri)
 
 
 ## 💻 Tech Stack

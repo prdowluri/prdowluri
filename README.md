@@ -4,8 +4,9 @@
 Hello everyone! I'm Prudhvi Raj Dowluri, a Computer Science graduate with a keen interest in Data Science. Currently diving deep into the world of data science, I'm truly passionate about Gen AI and Open Source LLM's. My enthusiasm extends particularly to Artificial Intelligence, where I find endless fascination and opportunities.
 
 ## 🌐 Socials
-![LinkedIn](https://img.shields.io/badge/-https://www.linkedin.com/in/prudhvi-raj-dowluri-412616221/) ![Hugging Face](https://img.shields.io/badge/-https://huggingface.co/prudhvirajdowluri) 
-![LinkedIn](https://img.shields.io/badge/-(https://www.linkedin.com/in/prudhvi-raj-dowluri-412616221/)&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/prudhvi-raj-dowluri-412616221/)
+[![Hugging Face](https://img.shields.io/badge/-HuggingFace-9cf)](https://huggingface.co/prudhvirajdowluri)
+
 
 ## 💻 Tech Stack
 

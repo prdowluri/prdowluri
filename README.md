@@ -22,6 +22,10 @@ Hello everyone! I'm Prudhvi Raj Dowluri, a Computer Science graduate with a keen
 ![NLP](https://img.shields.io/badge/-NLP-blue) 
 ![Python](https://img.shields.io/badge/-Python-yellow) 
 ![SQL](https://img.shields.io/badge/-SQL-blue)
+![Data Annotation](https://img.shields.io/badge/-Data%20Annotation-orange) 
+![Label Studio](https://img.shields.io/badge/-Lebl%20Studio-blue) 
+![CVAT](https://img.shields.io/badge/-CVAT-green) 
+
 
 ### Frameworks:
  ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-yellow)

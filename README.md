@@ -3,7 +3,7 @@
 ## 🚀 About Me
 Hello everyone! I'm Prudhvi Raj Dowluri, a Computer Science graduate and **AI/ML & Generative AI Engineer** with expertise in **RAG pipelines, Agentic AI, LangGraph, and LLM-powered applications**.  
 I’m passionate about **building production-ready AI solutions** in **document understanding, chatbot development, and intelligent automation**, leveraging cutting-edge frameworks like **LangChain, LlamaIndex, PydanticAI, and Hugging Face**.  
-I specialize in **end-to-end AI application development** — from model design to cloud deployment.
+I specialize in **end-to-end AI application development** - from model design to cloud deployment.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/prudhvi-raj-dowluri-412616221/)

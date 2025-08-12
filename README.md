@@ -1,38 +1,38 @@
 # Hi, I'm Prudhvi Raj Dowluri 👋
 
 ## 🚀 About Me
-Hello everyone! I'm Prudhvi Raj Dowluri, a Computer Science graduate with a keen interest in Data Science. Currently diving deep into the world of data science, I'm truly passionate about Gen AI and Open Source LLM's. My enthusiasm extends particularly to Artificial Intelligence, where I find endless fascination and opportunities.
+Hello everyone! I'm Prudhvi Raj Dowluri, a Computer Science graduate and **AI/ML & Generative AI Engineer** with hands-on experience in **RAG pipelines, Agentic AI, LangGraph, and LLM-powered applications**.  
+I’m passionate about **building intelligent, production-ready AI solutions** using **LangChain, LlamaIndex, OpenAI APIs, and custom orchestration frameworks**.  
+I enjoy working on **document understanding, chatbot development, and deploying AI at scale**.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/prudhvi-raj-dowluri-412616221/)
 [![Hugging Face](https://img.shields.io/badge/-HuggingFace-yellow)](https://huggingface.co/prudhvirajdowluri)
 
-
 ## 💻 Tech Stack
 
-### Languages and Tools:
-![AI](https://img.shields.io/badge/-AI-blue) 
-![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-orange) 
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-blue) 
-![Excel](https://img.shields.io/badge/-Excel-green) 
-![FastAPI](https://img.shields.io/badge/-FastAPI-lightgreen) 
-![Git](https://img.shields.io/badge/-Git-red) 
-![Large Language Models](https://img.shields.io/badge/-Large%20Language%20Models-yellow) 
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue)
-![NLP](https://img.shields.io/badge/-NLP-blue) 
-![Python](https://img.shields.io/badge/-Python-yellow) 
+### Languages & Tools:
+![Python](https://img.shields.io/badge/-Python-yellow)
 ![SQL](https://img.shields.io/badge/-SQL-blue)
-![Data Annotation](https://img.shields.io/badge/-Data%20Annotation-orange) 
-![Label Studio](https://img.shields.io/badge/-Label%20Studio-blue) 
-![CVAT](https://img.shields.io/badge/-CVAT-green) 
+![AI/ML/DL](https://img.shields.io/badge/-AI%2FML%2FDL-blue)
+![NLP](https://img.shields.io/badge/-NLP-blue)
+![RAG Pipelines](https://img.shields.io/badge/-RAG%20Pipelines-lightblue)
+![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-orange)
+![LLMs](https://img.shields.io/badge/-LLMs-yellow)
+![FastAPI](https://img.shields.io/badge/-FastAPI-lightgreen)
+![Streamlit](https://img.shields.io/badge/-Streamlit-red)
+![Git](https://img.shields.io/badge/-Git-red)
+![AWS](https://img.shields.io/badge/-AWS-orange)
+![Windows Services](https://img.shields.io/badge/-Windows%20Services-lightgrey)
+![SSMS](https://img.shields.io/badge/-SSMS-lightblue)
 
-
-### Frameworks:
- ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-yellow)
- ![Keras](https://img.shields.io/badge/-Keras-red)
- ![Langchain](https://img.shields.io/badge/-Langchain-blue) 
- ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-red) 
- ![NumPy](https://img.shields.io/badge/-NumPy-lightblue) 
- ![PyTorch](https://img.shields.io/badge/-PyTorch-red) 
- ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-orange) 
- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange)
+### Frameworks & Libraries:
+![LangChain](https://img.shields.io/badge/-LangChain-blue)
+![LangGraph](https://img.shields.io/badge/-LangGraph-darkblue)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-red)
+![PydanticAI](https://img.shields.io/badge/-PydanticAI-purple)
+![NumPy](https://img.shields.io/badge/-NumPy-lightblue)
+![Pandas](https://img.shields.io/badge/-Pandas-lightgrey)
+![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-orange)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange)
+![pdfplumber](https://img.shields.io/badge/-pdfplumber-brown)
